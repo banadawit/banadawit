@@ -13,6 +13,7 @@
 ---
 
 ### 🧑💻 About Me
+- 🔭 Currently Studying **Software Engineering** at **Haramaya University**
 - 🔭 Currently exploring **Django's full potential**
 - 🌱 Learning **React & Advancing Python**
 - � Passionate about clean code and problem-solving
