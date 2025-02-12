@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Welcome to Bana's Galaxy! 🚀</h1>
-<h3 align="center">🌌 Developer | Django | Continuous Learner 🌌</h3>
+<h1 align="center" style="color:#00F72F;">🚀 Welcome to Bana's Galaxy! 🚀</h1>
+<h3 align="center" style="color:#FF6F61;">🌌 Developer | Django | Continuous Learner 🌌</h3>
 
 <p align="center">
   <img align="center" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkLrZaX7aAADl3PxjCoT9FMvKYVLVIybg7w&s">
