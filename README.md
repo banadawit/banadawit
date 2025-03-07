@@ -17,7 +17,7 @@
 - 🔭 Currently exploring **Django's full potential**
 - 🌱 Learning **React & Advancing Python**
 - � Passionate about clean code and problem-solving
-- 📫 Reach me: **banadawithunde@gmail.com**
+- 📫 Reach me: **banadawithunde@gmail.com** or 👉 [LinkedIn](https://www.linkedin.com/in/bana-dawit-121810312/)
 
 ---
 
